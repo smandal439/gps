@@ -3,7 +3,7 @@ This is an ESP32-WROOM-DA OTA update example using Arduino IDE.
 
 Steps to Perform OTA Update:
 
-1. Set Up Initial Firmware:
+1.Set Up Initial Firmware:
 Open the .ino file in Arduino IDE.
 Set the currentVersion to a lower version (e.g., 1.0).
 Compile and upload the firmware to the ESP32.
