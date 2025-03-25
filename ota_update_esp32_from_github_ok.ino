@@ -3,8 +3,8 @@
 #include <HTTPClient.h>
 #include <Update.h>
 
-const char* ssid = "sushanta5G";
-const char* password = "Shruti@2015";
+const char* ssid = "xxxxxxxxxxxxx";
+const char* password = "xxxxxxxxxxxxxxxx";
 const char* firmwareURL = "https://raw.githubusercontent.com/smandal439/gps/main/firmware.bin";
 const char* versionURL = "https://raw.githubusercontent.com/smandal439/gps/main/version.txt";
 const String currentVersion = "1.0"; // Change this when updating firmware
